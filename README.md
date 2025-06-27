@@ -65,7 +65,7 @@ I created an interactive **Prime Video Dashboard** using **Tableau Public** to a
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](prime%20dashboard.png)
+![Dashboard Screenshot](dashboard.jpg)
 
 ---
 
